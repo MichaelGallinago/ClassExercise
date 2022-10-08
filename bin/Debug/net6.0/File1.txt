@@ -1,0 +1,8 @@
+﻿Класс: Human
+Поля: скрытое число age, строка name
+
+Класс: Student наследует Human
+Поля: число group
+
+Класс: Group
+Поля: скрытый список Student student, строка faculty, Student староста
