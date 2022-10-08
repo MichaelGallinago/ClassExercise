@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Work\\C#Repos\\VeseluhaSZamestitelyami\\VeseluhaSZamestitelyami.csproj",
-      "projectName": "VeseluhaSZamestitelyami",
-      "projectPath": "I:\\Work\\C#Repos\\VeseluhaSZamestitelyami\\VeseluhaSZamestitelyami.csproj",
+      "projectUniqueName": "I:\\Work\\C#Repos\\ClassExcercise\\ClassExcercise.csproj",
+      "projectName": "ClassExcercise",
+      "projectPath": "I:\\Work\\C#Repos\\ClassExcercise\\ClassExcercise.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "I:\\Work\\C#Repos\\VeseluhaSZamestitelyami\\obj\\",
+      "outputPath": "I:\\Work\\C#Repos\\ClassExcercise\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",
